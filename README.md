@@ -4,6 +4,11 @@ Here we provide the code used for the semester project: Transfer-learning throug
 
 This project has been supervised by Martin Jaggi and Matteo Pagliardini from the Machine Learning and Optimization Laboratory, EPFL, Switzerland.
 
+Libraries
+=========
+
+pytorch, transformers
+
 Data
 ====
 
