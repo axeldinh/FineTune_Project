@@ -23,7 +23,7 @@ The datasets can be found on this link: https://gluebenchmark.com/tasks.
 Training
 ========
 
-The motebooks contain the training for 1 dataset. The seed defined here are the one used for the experiment, so that running the notebooks do not run everything again.
+Each notebook contains the training for 1 dataset. The seeds defined here are the one used for the experiments, so that running the notebooks do not run everything again.
 To run the experiment again, either delete the results in Results/Models/..., or change the seed.
 
 The training were done using Adam on various learning rates, no other tricks were used.
